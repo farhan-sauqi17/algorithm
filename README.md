@@ -1,0 +1,2 @@
+# algorithm
+membuat program GUI
